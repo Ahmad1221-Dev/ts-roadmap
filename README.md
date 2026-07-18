@@ -15,3 +15,4 @@ Every file here represents a completed practical challenge, demonstrating core l
 - [✔] **Lesson 2.2:** Functions & Arrow Functions (BMI & Health Classifier)
 - [✔] **Lesson 2.3:** Arrays & Array Methods (Product Store Analyzer)
 - [✔] **Lesson 2.4:** Objects, Destructuring & Spread (Student Record Transformer/Manipulater)
+- [✔] **Lesson 2.5:** Control Flow, Loops & Scope (Number Games - FizzBuzz, Find Primes, Guess the Number)
